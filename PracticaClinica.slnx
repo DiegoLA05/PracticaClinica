@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BibliotecApp/BibliotecApp.csproj" Id="f4a104e4-c6f4-4f10-950d-55351e8d35ef" />
+  <Project Path="ClinicaApp/ClinicaApp.csproj" Id="7429e476-6a4c-4db0-aa21-70b9dc7caff6" />
+</Solution>

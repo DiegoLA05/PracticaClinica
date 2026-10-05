@@ -1,0 +1,9 @@
+{
+  "solution": {
+    "path": "PracticaClinica.slnx",
+    "projects": [
+      "App-Clinica\\App-Clinica.csproj",
+      "PracticaClinica\\PracticaClinica.csproj"
+    ]
+  }
+}
